@@ -93,7 +93,7 @@ Conducted controlled ethanol exposure studies, supported data collection, analys
 
 ## 📊 GitHub Stats
 
-![Sharon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharonraj3110 &show_icons=true&theme=default&hide_border=true)
+![Sharon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharonraj3110&show_icons=true&theme=default&hide_border=true)
 
 ---
 
